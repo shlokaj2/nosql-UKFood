@@ -1,7 +1,10 @@
 # nosql-UKFood
 
-I have added the Jupyter notebook starter files to the Resources folder. There is not much else done for this assignment, as I was focusing on completing Project 2
-and working on completing previous assignments. 
+The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by 
+the editors of a food magazine called Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics 
+decide where to focus future articles.
 
-Also, I am submitting this assignment early because tomorrow night when the assignment is due, I will be traveling and will not be able to work on it much more
-and submit it on time. I will continue to work on this assignment at a later time and resubmit it.
+I have added the Jupyter notebook starter files to the Resources folder and completed the assignment with both the starter files
+appropriately filled out with code.
+
+
